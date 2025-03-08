@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ambientedadebora
 - 👀 I’m interested in to study
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me? instagram: @debora_lleal
 - 😄 Pronouns: she/her
